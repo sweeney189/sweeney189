@@ -21,8 +21,7 @@ Feel free to explore and contribute!
     
 [![](https://img.shields.io/badge/linkedin-0a66c2?logo=linkedin)](https://www.linkedin.com/in/mauriziomarcantoni/)
 [![](https://img.shields.io/badge/Tryhackme-6364ff?logo=tryhackme)](https://tryhackme.com/p/sweeney1989)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+[![](https://img.shields.io/badge/tutorials-ff66ab?logo=github)](https://sweeney189.github.io/)
 </div>
 
 
